@@ -6,9 +6,9 @@ A small Flappy Bird–style browser game built with TypeScript and RxJS. The pro
 
 - Bird physics & collisions (gravity, velocity clamping, hit detection)  
 - Score tracking as pure state transitions  
-- Restart functionality via hotkeys  
+- Restart functionality by R key 
 - Ghost birds (previous runs replayed alongside current gameplay)  
-- Deterministic randomness for reproducible runs  
+- Deterministic randomness for collisions
 
 ## Usage
 
